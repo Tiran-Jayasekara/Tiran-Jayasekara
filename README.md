@@ -1,7 +1,10 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/335863097/original/c40e218cd582bc0de8b0d01f5e6357613df77129/do-frontend-and-backend-web-development.jpg)](https://rishavchanda.io)
+![Tiran-jayasekara](https://github.com/Tiran-Jayasekara/Tiran-Jayasekara/assets/70306643/8b9d6c8c-79b7-430b-b1a2-c4372f15de1e)
+
+
 <h1 align="center">Hi 👋, I'm Tiran Jayasekara</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 
 - 🔭 I’m currently working on [PeerWave ECommerce Web Application](https://github.com/Tiran-Jayasekara/PeerWave-ECommerce)
