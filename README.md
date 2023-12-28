@@ -1,5 +1,3 @@
-![Tiran-jayasekara](https://github.com/Tiran-Jayasekara/Tiran-Jayasekara/assets/70306643/8b9d6c8c-79b7-430b-b1a2-c4372f15de1e)
-
 
 <h1 align="center">Hi 👋, I'm Tiran Jayasekara</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer</h3>
