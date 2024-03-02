@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi Dude, I'm Tiran Jayasekara</h1>
 <h3 align="center">Software Engineer</h3>
-![coding](https://github.com/Tiran-Jayasekara/Tiran-Jayasekara/assets/70306643/3ba5b38a-b802-47c8-aae3-84777b7b46cd)
+https://github.com/Tiran-Jayasekara/Tiran-Jayasekara/assets/70306643/3ba5b38a-b802-47c8-aae3-84777b7b46cd
 
 
 
