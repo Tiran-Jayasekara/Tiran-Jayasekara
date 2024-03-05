@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Cyber Pola e-Commerce Application](https://github.com/Tiran-Jayasekara/PeerWave-ECommerce)
+- 🔭 I’m currently working on [Cyber Pola e-Commerce Application](https://github.com/Tiran-Jayasekara/CyberPola)
 
 - 🌱 I’m currently learning **React JS, Next JS, Node JS and Spring Boot**
 
