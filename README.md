@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi ., I'm Tiran Jayasekara</h1>
+<h1 align="center">Hi , I'm Tiran Jayasekara</h1>
 <h3 align="center">Software Engineer</h3>
 https://github.com/Tiran-Jayasekara/Tiran-Jayasekara/assets/70306643/3ba5b38a-b802-47c8-aae3-84777b7b46cd
 
