@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi , I'm Tiran Jayasekara</h1>
 <h3 align="center">Software Engineer</h3>
-https://github.com/Tiran-Jayasekara/Tiran-Jayasekara/assets/70306643/3ba5b38a-b802-47c8-aae3-84777b7b46cd
 
 
 
 
-- 🔭 I’m currently working on [PeerWave ECommerce Web Application](https://github.com/Tiran-Jayasekara/PeerWave-ECommerce)
+
+- 🔭 I’m currently working on [Cyber Pola e-Commerce Application](https://github.com/Tiran-Jayasekara/PeerWave-ECommerce)
 
 - 🌱 I’m currently learning **React JS, Next JS, Node JS and Spring Boot**
 
