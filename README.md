@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Cyber Pola e-Commerce Application](https://github.com/Tiran-Jayasekara/CyberPola)
+- 🔭 I’m currently working on [Udadumbara Information Center](https://www.udadumbara.info/)
 
 - 🌱 I’m currently learning **React JS, Next JS, Node JS and Spring Boot**
 
@@ -14,9 +14,9 @@
 
 - 🤝 I'm always looking for opportunities **to collaborate with other developers and learn from them. So, if you're working on an exciting project and need some help, feel free to reach out to me!**
 
-- 👨‍💻 All of my projects are available at [https://tiran-jayasekara.github.io/portfolio/](https://tiran-jayasekara.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://tiranjayasekara.info/)
 
-- 💬 Ask me about **React, NextJs, Tailwind CSS, NodeJs, Spring Boot, MySQL, MongoDB, FireBase**
+- 💬 Ask me about **React, NextJs, Tailwind CSS, MUI , NodeJs, Spring Boot, MySQL, MongoDB, FireBase**
 
 - 📫 How to reach me **tiran.jayasekara.999@gmail.com**
 
